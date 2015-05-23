@@ -1,4 +1,4 @@
-package whale;
+package th.co.geniustree.whale;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
